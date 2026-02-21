@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Mail, Linkedin, Twitter } from "lucide-react";
+import Logo from "../logo";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -9,7 +10,7 @@ export default function Footer() {
       <div className="container py-12">
         <div className="grid gap-8 sm:grid-cols-3">
           <div className="space-y-3">
-            <p className="text-sm font-semibold">Bootstrap Hub</p>
+            <Logo/>
             <p className="text-sm text-muted-foreground">
               Building digital products from India.
             </p>

@@ -14,7 +14,7 @@ Bootstrap Hub is a sole proprietorship registered under UDYAM (Micro Enterprise)
 
 ## Products
 
-- [Syncqer](https://syncqer.com) — SaaS product for streamlining and synchronising workflows
+- [Syncqer](https://syncqer.com) — Multi-channel inventory monitoring SaaS for e-commerce sellers
 
 ## Contact
 

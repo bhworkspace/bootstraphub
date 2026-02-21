@@ -5,7 +5,7 @@ const products = [
   {
     name: "Syncqer",
     description:
-      "A SaaS product designed to streamline and synchronise your workflows.",
+      "Multi-channel inventory monitoring SaaS for e-commerce sellers. Track stock across Shopify, Amazon, WooCommerce, Etsy, and eBay with real-time alerts.",
     url: "https://syncqer.com",
     status: "Live" as const,
   },
